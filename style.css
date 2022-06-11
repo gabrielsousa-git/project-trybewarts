@@ -1,0 +1,74 @@
+main {
+    display: flex;
+    margin: auto;  
+}
+
+
+.header {
+    background-color:rgb(50, 167, 145);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.trybewarts-header-title {
+    display: flex;
+}
+
+
+.trybewarts-header-logo {
+    width: 100px;
+    display: flex;
+    align-items: center;    
+}
+
+
+.trybewarts-login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+}
+
+
+#evaluation-form {
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;   
+    width: 675px;
+}
+
+
+.email__select {
+    display: flex;
+}
+
+
+.name__lastname {
+    display: flex;
+    align-items: flex-end;    
+}
+
+
+#input-name {
+    display: inline-block;
+}
+
+
+#input-lastname {
+    display: inline-block;
+}
+
+
+.logo__main {
+    display: flex;
+   align-items: flex-start;
+   justify-content: end;
+}
+
+
+.radio__family {
+    display: flex;
+    flex-direction: column;
+}
