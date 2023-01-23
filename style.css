@@ -1,7 +1,6 @@
-#trybewarts-header-title{
+#trybewarts-header-title {
   color: aliceblue;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
 }
 
 .header {
@@ -11,19 +10,19 @@
   align-items: center;
 }
 
-#email, #password, #btn{
+#email, #password, #btn {
   margin: 5px;
   border-radius: 5px;
 }
 
-#btn, #submit-btn{
+#btn, #submit-btn {
   background-color: rgb(43, 116, 177);
   border-radius: 5px;
   color: aliceblue;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
 }
 
-h3{
+h3 {
   text-align: center;
 }
 
@@ -47,22 +46,19 @@ main {
   display: flex;
   justify-content: space-evenly;
   background-color: rgb(247, 244, 240);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
 }
 
-div{
+div {
   margin: 10px;
 }
 
 .evaluation-container {
   display: flex;
   justify-content: space-evenly;
-  /* align-content: stretch;
-  margin: 5px; */
 }
 
-#input-name, #input-lastname, #input-email, #house{
+#input-name, #input-lastname, #input-email, #house {
   border-radius: 5px;
   width: max-content;
 }
@@ -86,7 +82,7 @@ div{
   flex-direction: column;
 }
 
-#label-rate{
+#label-rate {
   display: flex;
   justify-content: space-between;
 }
@@ -95,10 +91,9 @@ div{
   height: 500px;
 }
 
-footer{
+footer {
   background-color: rgb(70, 79, 87);
   color: aliceblue;
   text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
 }
