@@ -10,12 +10,12 @@
   align-items: center;
 }
 
-#email, #password, #btn {
+#email , #password , #btn {
   margin: 5px;
   border-radius: 5px;
 }
 
-#btn, #submit-btn {
+#btn , #submit-btn {
   background-color: rgb(43, 116, 177);
   border-radius: 5px;
   color: aliceblue;
@@ -58,7 +58,7 @@ div {
   justify-content: space-evenly;
 }
 
-#input-name, #input-lastname, #input-email, #house {
+#input-name , #input-lastname , #input-email , #house {
   border-radius: 5px;
   width: max-content;
 }
